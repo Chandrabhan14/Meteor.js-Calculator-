@@ -1,1 +1,1 @@
-# Metero.js-Calculator
+# Meteor.js-Calculator
